@@ -141,19 +141,19 @@ export default function AboutPage() {
             <div className="flex items-center gap-2">
               <span className="font-medium">Email:</span>
               <a href="seonyu0710@naver.com" className="text-blue-500 hover:underline">
-                example@email.com
+                seonyu0710@naver.com
               </a>
             </div>
             <div className="flex items-center gap-2">
               <span className="font-medium">GitHub:</span>
-              <a href="https://github.com/username" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
-                @username
+              <a href="https://github.com/dltjsdb" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+                @dltjsdb
               </a>
             </div>
             <div className="flex items-center gap-2">
               <span className="font-medium">Blog:</span>
               <a href="https://blog.example.com" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
-                blog.example.com
+                seonyu
               </a>
             </div>
           </div>
